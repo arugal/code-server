@@ -42,7 +42,7 @@ service:
 
 
 liveServer:
-  enabled: true
+  enabled: false
   port: 5500
   ingress:
 #    annotations:
